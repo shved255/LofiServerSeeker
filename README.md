@@ -1,0 +1,2 @@
+# LofiServerSeeker
+Поиск серверов
