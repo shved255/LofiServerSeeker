@@ -18,3 +18,7 @@
 ## Скрин:
 
 ![изображение](https://github.com/user-attachments/assets/e68f8043-73de-4581-9acd-2cf8b743fc21)
+
+## Скрин программы при работе:
+
+![изображение](https://github.com/user-attachments/assets/e816cf94-7dc3-43f1-a01a-5c86fe1827ef)
